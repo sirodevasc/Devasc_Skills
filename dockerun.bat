@@ -7,7 +7,7 @@ echo " pull finished "
 echo " "
 echo " "
 echo " running docker NTP services... "
-docker run -d --restart=always -p 123:123/udp --name siro ntpd:ntpd
+docker run -d --restart=always -p 123:123/udp --name siro ntpd/ntpd
 echo " "
 echo " displaying list of running containers... "
 docker ps -a
