@@ -38,3 +38,11 @@ Task troubleshooting => data type management
 Task verification => by resquets library response   
   
    
+Task 6  
+Task name => wevex teams api  
+Task preparation => API documenttation  
+Task implementation => with python IDLE  
+Task troubleshooting => confusion between room and team :)   
+Task verification => by resquets library response   
+  
+  
