@@ -29,3 +29,12 @@ Task implementation => from jenkins and git.exe
 Task troubleshooting => 'sh' keyword dont work in jenking pipe under win10, need to use 'bat'  
 Task verification => show results in jenkings pipe and job, and cmd   
   
+  
+Task 5  
+Task name => convert curl to python  
+Task preparation => nothing  
+Task implementation => python IDLE  
+Task troubleshooting => data type management   
+Task verification => by resquets lirary response   
+  
+   
