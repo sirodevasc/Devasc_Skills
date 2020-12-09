@@ -35,6 +35,6 @@ Task name => convert curl to python
 Task preparation => nothing  
 Task implementation => python IDLE  
 Task troubleshooting => data type management   
-Task verification => by resquets lirary response   
+Task verification => by resquets library response   
   
    
